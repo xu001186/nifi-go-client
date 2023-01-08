@@ -4,8 +4,8 @@ import (
 	"context"
 
 	"github.com/antihax/optional"
-	"github.com/xu001186/nifi-client/helper"
-	"github.com/xu001186/nifi-client/nifi"
+	"github.com/xu001186/nifi-go-client/helper"
+	"github.com/xu001186/nifi-go-client/nifi"
 )
 
 func main() {

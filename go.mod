@@ -1,4 +1,4 @@
-module github.com/xu001186/nifi-client
+module github.com/xu001186/nifi-go-client
 
 go 1.18
 
